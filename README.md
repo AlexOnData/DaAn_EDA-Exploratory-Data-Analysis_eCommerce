@@ -1,11 +1,12 @@
 # 📊 PowerBI Project - E-Commerce Data Analysis (EDA)
 
-This project presents an **Exploratory Data Analysis (EDA)** pipeline for an **e-commerce dataset**, integrating **Python**, **SQL Server**, and **Power BI** to transform raw transactional data into meaningful business insights.  
-
-The project was developed as part of an academic assignment at *Transilvania University of Brașov*, Faculty of Mathematics and Computer Science.
-
 ⚠️ **Disclaimer:** The dataset used in this project is **fictitious**.  
 This dashboard was created **only as a presentation model** and should not be interpreted as real operational data.
+
+---
+## 🔎 Description
+This project presents an **Exploratory Data Analysis (EDA)** pipeline for an **e-commerce dataset**, integrating **Python**, **SQL Server**, and **Power BI** to transform raw transactional data into meaningful business insights.  
+The project was developed as part of an academic assignment at *Transilvania University of Brașov*, Faculty of Mathematics and Computer Science.
 
 ---
 
