@@ -96,8 +96,8 @@ This workflow can easily be extended to:
 ## 🚀 Getting Started
 1. Clone this repository:  
    ```
-   git clone https://github.com/alexmarcean/edp-ecommerce-data-analysis.git
-   cd edp-ecommerce-data-analysis
+   git clone https://github.com/AlexOnData/DaAn_EDA-Exploratory-Data-Analysis_eCommerce.git
+   cd DaAn_EDA-Exploratory-Data-Analysis_eCommerce
    ```
 
 2. Install dependencies (Python ≥ 3.9 recommended):
