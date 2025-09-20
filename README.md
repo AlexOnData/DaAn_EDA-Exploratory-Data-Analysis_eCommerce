@@ -73,9 +73,9 @@ This workflow can easily be extended to:
    ```
 
 2. Install dependencies (Python ≥ 3.9 recommended):
-  ```
-  pip install pandas numpy pyodbc sqlalchemy matplotlib seaborn
-  ```
+   ```
+   pip install pandas numpy pyodbc sqlalchemy matplotlib seaborn
+   ```
 
 3. Set up SQL Server (Developer Edition recommended).
 
