@@ -5,6 +5,8 @@ This dashboard was created **only as a presentation model** and should not be in
 
 ---
 ## 🔎 Description
+**Application acces:** _[DaAn_EDA-Exploratory-Data-Analysis_eCommerce](https://app.powerbi.com/view?r=eyJrIjoiNGI5NzNhZGUtMDA1Yy00MDNjLWJlNTAtOTY4YWM5MjJkMmMwIiwidCI6IjU5ZTJkYTQzLWI1N2UtNDA4Ny05OGEwLWI1NDlmODczNzE0MiIsImMiOjl9)_
+
 This project presents an **Exploratory Data Analysis (EDA)** pipeline for an **e-commerce dataset**, integrating **Python**, **SQL Server**, and **Power BI** to transform raw transactional data into meaningful business insights.  
 The project was developed as part of an academic assignment at *Transilvania University of Brașov*, Faculty of Mathematics and Computer Science.
 
@@ -63,6 +65,31 @@ This workflow can easily be extended to:
 - Connect to live APIs or multiple data sources  
 - Automate updates with scheduled Python scripts  
 - Integrate predictive models for sales forecasting  
+
+---
+
+## 📈 Dashboards
+
+### 🟢 Dashboard 1 – Sales Overview
+- **KPI Cards** – Total Sales, Total Orders, Number of Clients.  
+- **Donut charts** – percentage distribution of sales and orders by country.  
+- **Line/Area chart** – yearly sales trend.  
+- **Matrix table** – aggregated sales by country and time.  
+- **Slicers** – filters for Year, Month, and Quarter.  
+
+➡️ Example visualization:  
+![Dashboard1](./assets/dashboard1.png)
+
+---
+
+### 🟢 Dashboard 2 – Geographical Analysis
+- **Map visualization** – global distribution of total sales.  
+- Interactive zoom and hover for country-level insights.  
+- **Country ranking table** – total sales per region.  
+- Same slicers (Year, Month, Quarter) for filtering.  
+
+➡️ Example visualization:  
+![Dashboard2](./assets/dashboard2.png)
 
 ---
 
